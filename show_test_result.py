@@ -1,6 +1,5 @@
 from os import listdir
 import xml.etree.ElementTree as ET
-from slacker import Slacker
 
 
 PATH = '/home/mudit/junit-test-file-xml-parser/test_files'
